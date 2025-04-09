@@ -1,1 +1,1 @@
-# Luke-Barousse-SQL-Course
+# Chicago Data Analyst Job Market Analysis in SQL
