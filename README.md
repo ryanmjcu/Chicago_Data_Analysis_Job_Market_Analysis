@@ -156,6 +156,6 @@ By looking at both demand and average salary at once, we see a culmination of th
 ### Insights
 A few key insights popped out to me when answering these questions:
 1. A Data Analyst in Chicago can easily make six figures: The top 10 best paying jobs in Chicago all paid above that $100,000 threshold, so with the right experience and skills, a high salary should be readily attainable.
-2. Importnace of SQL: queries 2 & 3 showed me that SQL is almost required to acquire a top-paying job, but is also generally in high demand.
+2. Importance of SQL: queries 2 & 3 showed me that SQL is almost required to acquire a top-paying job, but is also generally in high demand.
 3. Specialization: highly specialized skills can garner high salary, indicating that as one progresses through their career, so will their salary.
 4. Skill optimization: Based on the data from query 5, it seems that the most optimal skills to learn are an analysis tool such as Python or R, SQL, and a visualization tool such as Power BI or Tableau.
