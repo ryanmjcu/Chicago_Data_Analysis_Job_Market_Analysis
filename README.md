@@ -5,7 +5,7 @@ In this guided project, I focused on Data Analyst roles in Chicago, exploring to
 # Background
 I sought out this project as part of my journey in data analytics. This was project is based on a dataset put togehter by youtuber/data analytics teacher [Luke Barousse](https://www.youtube.com/@LukeBarousse), wherein information was pulled from thousands of LinkedIn job postings to compile into one dataset. 
 
-As a young person just dipping his toes into data analytics, and considering job-searching in this field, this easily piqued my interest. 
+As a young professional just dipping his toes into data analytics, and considering job-searching in this field, this easily piqued my interest. 
 
 ### The questions I want to answer with my queries are:
 1. What are the highest-paying jobs, specifically Data Analyst roles?
